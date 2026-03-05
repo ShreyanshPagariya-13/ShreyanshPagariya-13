@@ -1,14 +1,28 @@
-## Hi there 👋
+## Hi there 👋, I'm Shreyansh
 
-**ShreyanshPagariya-13/ShreyanshPagariya-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`It does not matter how slowly you go as long as you do not stop.`**
 
-Here are some ideas to get you started:
+---
+## About Me
+Learning how to build reliable backend systems, with cloud-native tools, and enjoy solving algorithmic problems at scale 🚀  
 
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning Backend Technologies
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 **Backend & DevOps Engineer**  
+⚡ **DSA guy**
+
+🎓 Integrated **B.Tech + M.Tech (IT)** @ **IIIT Gwalior**  
+
+---
+
+## Skill stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,fastapi,aws,docker,kubernetes,linux,git,github,mysql,postgresql,terraform,figma&theme=light)](https://skillicons.dev)
+
+
+## 📫 Connect with Me  
+
+<a href="https://linkedin.com/in/shreyanshpagariya" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="shreyansh.pagariya13@gmail.com" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
