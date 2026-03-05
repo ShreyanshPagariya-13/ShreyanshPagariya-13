@@ -19,12 +19,10 @@ Learning how to build reliable backend systems, with cloud-native tools, and enj
 
 
 ## 📫 Connect with Me  
-
+- Email **shreyansh.pagariya13@gmail.com**
+  
 <a href="https://linkedin.com/in/shreyanshpagariya" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="shreyansh.pagariya13@gmail.com" target="blank">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
 <a href="https://x.com/ShreyanshPagar4" target="blank">
   <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
