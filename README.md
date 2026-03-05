@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Shreyansh
+## Hi there 👋, I'm Shreyansh 🏄‍♂️ 
 
 **`It does not matter how slowly you go as long as you do not stop.`**
 
@@ -15,7 +15,7 @@ Learning how to build reliable backend systems, with cloud-native tools, and enj
 
 ## Skill stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,fastapi,aws,docker,kubernetes,linux,git,github,mysql,postgresql,terraform,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,fastapi,aws,docker,kubernetes,linux,git,github,mysql,postgresql,mongodb,postman,rabbitmq,prometheus,latex,figma&theme=light)](https://skillicons.dev)
 
 
 ## 📫 Connect with Me  
@@ -25,4 +25,7 @@ Learning how to build reliable backend systems, with cloud-native tools, and enj
 </a>
 <a href="shreyansh.pagariya13@gmail.com" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
+<a href="https://x.com/ShreyanshPagar4" target="blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
 </a>
