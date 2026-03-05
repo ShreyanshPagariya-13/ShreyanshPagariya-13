@@ -4,7 +4,7 @@
 
 ---
 ## About Me
-Learning how to build reliable backend systems, with cloud-native tools, and enjoy solving algorithmic problems at scale 🚀  
+Learning to build reliable backend systems with cloud-native tools and solving algorithmic problems at scale 🚀
 
 💻 **Backend & DevOps Engineer**  
 ⚡ **DSA guy**
@@ -15,15 +15,17 @@ Learning how to build reliable backend systems, with cloud-native tools, and enj
 
 ## Skill stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,fastapi,aws,docker,kubernetes,linux,git,github,mysql,postgresql,mongodb,postman,rabbitmq,prometheus,latex,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,fastapi,aws,docker,kubernetes,linux,git,github,mysql,postgresql,mongodb,postman,rabbitmq,prometheus&theme=light)](https://skillicons.dev)
 
 
-## 📫 Connect with Me  
-- Email **shreyansh.pagariya13@gmail.com**
-  
-<a href="https://linkedin.com/in/shreyanshpagariya" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+## 📫 Connect
+
+📧 shreyansh.pagariya13@gmail.com  
+
+<a href="https://linkedin.com/in/shreyanshpagariya">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://x.com/ShreyanshPagar4" target="blank">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+
+<a href="https://x.com/ShreyanshPagar4">
+  <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
