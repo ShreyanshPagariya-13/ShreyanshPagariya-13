@@ -17,6 +17,7 @@ Learning to build reliable backend systems with cloud-native tools and solving a
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,fastapi,aws,docker,kubernetes,linux,git,github,mysql,postgresql,mongodb,postman,rabbitmq,prometheus&theme=light)](https://skillicons.dev)
 
+---
 
 ## 📫 Connect
 
@@ -29,3 +30,6 @@ Learning to build reliable backend systems with cloud-native tools and solving a
 <a href="https://x.com/ShreyanshPagar4">
   <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
+
+
+![](https://komarev.com/ghpvc/?username=ShreyanshPagariya-13)
